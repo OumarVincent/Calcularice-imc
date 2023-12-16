@@ -19,5 +19,4 @@ Ce programme Python est un calculateur d'Indice de Masse Corporelle (IMC) simple
 ## Fonctionnalités
 
 - Calcul de l'IMC en fonction de la taille et de la masse.
-- Prise en compte du nom, du prénom, de l'âge et du sexe de l'utilisateur.
 - Interface utilisateur simple et conviviale.
